@@ -1,3 +1,5 @@
-# Guess Num Multi Player Game
+# Guess Num Multiplayer Game
 
-Simple Guess Num game, but in multiplayer and with 3 Difficulty levels - Easy/Medium/Hard (unlim attempts/10/3).
+# Features: 
+1. Multiplayer
+2. Difficulty levels (Easy/Medium/Hard) > Unlimited attempts to guess / 10 and 3
