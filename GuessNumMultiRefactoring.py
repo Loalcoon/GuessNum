@@ -79,6 +79,7 @@ while True:
             print(f'{player_2} exited the game.')
         break
     result = process_guess(guess, num)
+    print(f"{result}")
     if result == "Correct":
         if current_player == 1:
             print(f"{player_1} won the game in {player1_count} attempts! Guess number was: {num}")
